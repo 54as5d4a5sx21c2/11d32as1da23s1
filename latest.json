@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "minimumVersion": "1.1.0",
+  "version": "1.1.0",
+  "build": 1,
+  "minimumBuild": 0,
   "downloadUrl": "https://github.com/54as5d4a5sx21c2/11d32as1da23s1/releases/download/teste/HaxClientUpdater.exe"
 }
